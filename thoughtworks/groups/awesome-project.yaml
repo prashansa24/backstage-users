@@ -5,7 +5,7 @@ metadata:
   description: Awesome Project Team
 spec:
   type: team
-  children: []
+  children: [awesome-pet]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
